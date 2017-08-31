@@ -17,7 +17,7 @@ This project requires Python >= 2.7 and the following Python libraries installed
 
 You will also need to have software installed to run and execute a Jupyter Notebook
 
-If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, 
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda distribution of Python](https://www.anaconda.com/download/) , 
 which already has the above packages and more included.
 
 
