@@ -13,7 +13,7 @@ This project requires Python >= 2.7 and the following Python libraries installed
 * Pandas
 * matplotlib
 * scikit-learn
-* gmaps
+* gmaps ( need to use your own config file with google api key + update ipywidgets before installing gmaps)
 
 You will also need to have software installed to run and execute a Jupyter Notebook
 
