@@ -34,6 +34,8 @@ Data contains 7 different files
 * Motionstate.csv ( 'Driving' or 'idle' )
 * wifi.csv 
 * step.csv 
+* speed.csv
+* barometer.csv
 
 # Sensors Used:-
 
